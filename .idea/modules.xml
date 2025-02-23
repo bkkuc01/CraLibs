@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CraLibs.main.iml" filepath="$PROJECT_DIR$/.idea/modules/CraLibs.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CraLibs.test.iml" filepath="$PROJECT_DIR$/.idea/modules/CraLibs.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pl.bkkuc.CraLibs.main.iml" filepath="$PROJECT_DIR$/.idea/modules/pl.bkkuc.CraLibs.main.iml" />
+    </modules>
+  </component>
+</project>

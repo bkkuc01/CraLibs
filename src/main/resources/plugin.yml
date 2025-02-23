@@ -1,0 +1,11 @@
+#
+#       ( 👑 CraCommunity 2024 👑 )
+#  
+#   ✨ Telegram: t.me/CraCommunity
+#   💎 Discord: dsc.gg/CraCommunity
+#
+
+name: CraLibs
+version: '${version}'
+main: pl.bkkuc.cralibs.CraLibs
+api-version: '1.16'
